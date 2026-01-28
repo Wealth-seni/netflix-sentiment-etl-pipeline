@@ -1,4 +1,5 @@
 # netflix-sentiment-etl-pipeline
+![Project Architecture](images/Data_to_Insights_Pipeline_Architecture.png)
 End-to-end data pipeline using Python, BERTopic and Local LLMs to analyze 145k+ Netflix reviews
 
 The Core Challenge: Netflix receives thousands of daily reviews. Standard "Positive/Negative" analysis isn't enough. I built a pipeline that discovers why people are complaining using unsupervised machine learning.

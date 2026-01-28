@@ -1,0 +1,8 @@
+pandas
+sqlalchemy
+pymysql
+bertopic
+sentence-transformers
+joblib
+ollama
+tqdm
